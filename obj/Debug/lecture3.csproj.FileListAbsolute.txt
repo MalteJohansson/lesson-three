@@ -1,0 +1,7 @@
+C:\Users\malte\source\repos\lecture3\lecture3\bin\Debug\lecture3.exe.config
+C:\Users\malte\source\repos\lecture3\lecture3\bin\Debug\lecture3.exe
+C:\Users\malte\source\repos\lecture3\lecture3\bin\Debug\lecture3.pdb
+C:\Users\malte\source\repos\lecture3\lecture3\obj\Debug\lecture3.csprojResolveAssemblyReference.cache
+C:\Users\malte\source\repos\lecture3\lecture3\obj\Debug\lecture3.csproj.CoreCompileInputs.cache
+C:\Users\malte\source\repos\lecture3\lecture3\obj\Debug\lecture3.exe
+C:\Users\malte\source\repos\lecture3\lecture3\obj\Debug\lecture3.pdb
